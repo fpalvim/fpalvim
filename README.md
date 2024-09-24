@@ -10,10 +10,10 @@ I'm starting a bootcamp of Data Science where I'll continue the path of growing 
 🤝 Or by my socials :
 
 <a href="https://github.com/fpalvim" target="_blank">
-  <img align="left" src="https://github.com/fpalvim/fpalvim/blob/main/linkedin-svgrepo-com.svg" width="35px"/>   
+  <img src="https://github.com/fpalvim/fpalvim/blob/main/linkedin-svgrepo-com.svg" width="35px">   
 </a>   
 <a href="https://www.linkedin.com/in/felipebpalvim/" target="_blank">
-  <img align="left" src="https://github.com/fpalvim/fpalvim/blob/main/github-svgrepo-com.svg" width="35px"/>    
+  <img src="https://github.com/fpalvim/fpalvim/blob/main/github-svgrepo-com.svg" width="35px">    
 </a>   
 <br>
 <h2 align="left"><strong>Ferramentas e tecnologias:</strong></h2>
@@ -54,17 +54,17 @@ I'm starting a bootcamp of Data Science where I'll continue the path of growing 
   <a target="_blank" href='https://git-scm.com/doc'>
     <image alt='Git' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'>
   </a>
-  <a target="_blank" href='https://docs.github.com/pt'>
+  <a target="_blank" href='https://docs.github.com/'>
     <image alt='GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'>
   </a>
-  <a target="_blank" href='https://docs.github.com/pt'>
-    <image alt='GitHub' src='https://img.shields.io/badge/python-blue?style=for-the-badge'>
+  <a target="_blank" href='https://docs.python.org/'>
+    <image alt='Python' src='https://img.shields.io/badge/python-blue?style=for-the-badge'>
   </a>
-  <a target="_blank" href='https://docs.github.com/pt'>
-    <image alt='GitHub' src='https://img.shields.io/badge/sql-yellow?style=for-the-badge'>
+  <a target="_blank" href='https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16/'>
+    <image alt='Sql' src='https://img.shields.io/badge/sql-yellow?style=for-the-badge'>
   </a>
-  <a target="_blank" href='https://docs.github.com/pt'>
-    <image alt='GitHub' src='https://img.shields.io/badge/jupyter-notebook-orange?style=for-the-badge'>
+  <a target="_blank" href='https://docs.jupyter.org/'>
+    <image alt='Jupyter' src='https://img.shields.io/badge/jupyter-notebook-orange?style=for-the-badge'>
   </a>
 </p>
 
