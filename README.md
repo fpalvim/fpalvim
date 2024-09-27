@@ -10,10 +10,10 @@ I'm starting a bootcamp of Data Science where I'll continue the path of growing 
 🤝 Or by my socials :
 
 <a href="https://github.com/fpalvim">
-  <img src="https://github.com/fpalvim/fpalvim/blob/main/linkedin-svgrepo-com.svg" width="35px">   
+  <img src="https://github.com/fpalvim/fpalvim/blob/main/github-svgrepo-com.svg" width="35px">   
 </a>   
 <a href="https://www.linkedin.com/in/felipebpalvim/">
-  <img src="https://github.com/fpalvim/fpalvim/blob/main/github-svgrepo-com.svg" width="35px">    
+  <img src="https://github.com/fpalvim/fpalvim/blob/main/linkedin-svgrepo-com.svg" width="35px">    
 </a>   
 <br>
 <h2 align="left"><strong>Ferramentas e tecnologias:</strong></h2>
