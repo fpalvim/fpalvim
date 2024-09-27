@@ -9,10 +9,10 @@ I'm starting a bootcamp of Data Science where I'll continue the path of growing 
 ✉️ You can keep in touch with me by email: [fpalvim@gmail.com](mailto:fpalvim@gmail.com)   
 🤝 Or by my socials :
 
-<a href="https://github.com/fpalvim" target="_blank">
+<a href="https://github.com/fpalvim">
   <img src="https://github.com/fpalvim/fpalvim/blob/main/linkedin-svgrepo-com.svg" width="35px">   
 </a>   
-<a href="https://www.linkedin.com/in/felipebpalvim/" target="_blank">
+<a href="https://www.linkedin.com/in/felipebpalvim/">
   <img src="https://github.com/fpalvim/fpalvim/blob/main/github-svgrepo-com.svg" width="35px">    
 </a>   
 <br>
