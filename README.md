@@ -74,4 +74,4 @@ I'm starting a bootcamp of Data Science where I'll continue the path of growing 
 
 <a href="http://www.github.com/fpalvim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fpalvim&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&bg_color=1c1917&layout=compact" alt="fpalvim" /></a>
 
-[link](http://www.github.com/fpalvim)
+[Google]("https://google.com" target="_blank")
