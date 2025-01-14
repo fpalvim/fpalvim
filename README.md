@@ -66,6 +66,18 @@ I'm starting a bootcamp of Data Science where I'll continue the path of growing 
   <a target="_blank" href='https://docs.jupyter.org/'>
     <image alt='Jupyter' src='https://img.shields.io/badge/jupyter-notebook-orange?style=for-the-badge'>
   </a>
+  <a target="_blank" href='https://matplotlib.org/stable/'>
+    <image alt='Jupyter' src='https://img.shields.io/badge/matplotlib-blue?style=for-the-badge'>
+  </a>
+  <a target="_blank" href='https://pandas.pydata.org/'>
+    <image alt='Jupyter' src='https://img.shields.io/badge/pandas-gray?style=for-the-badge'>
+  </a>
+  <a target="_blank" href='https://numpy.org/'>
+    <image alt='Jupyter' src='https://img.shields.io/badge/numpy-blue?style=for-the-badge'>
+  </a>
+  <a target="_blank" href='https://seaborn.pydata.org/'>
+    <image alt='Jupyter' src='https://img.shields.io/badge/seaborn-aqua?style=for-the-badge'>
+  </a>
 </p>
 
 <a href="http://www.github.com/fpalvim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fpalvim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/></a>
