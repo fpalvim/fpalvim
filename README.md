@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Felipe Alvim. 👋</h1>
 
-<h2 align="left"><strong>Fullstack Developer</strong>💻</h2>  
+<h2 align="left"><strong>Fullstack Developer / Data Analyst</strong>💻</h2>  
 
 I'm a Fullstack Developer with background in IT, currently using Python, Javascript, and React in different projects. <br>
 I'm starting a bootcamp of Data Science where I'll continue the path of growing and learning, always looking forward to more.
