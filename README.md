@@ -2,8 +2,7 @@
 
 <h2 align="left"><strong>Fullstack Developer / Data Analyst</strong>💻</h2>  
 
-I'm a Fullstack Developer with background in IT, currently using Python, Javascript, and React in different projects. <br>
-I'm starting a bootcamp of Data Science where I'll continue the path of growing and learning, always looking forward to more.
+I’m a Fullstack Developer and Data Analyst with many years of experience in IT. I’m eager to keep growing by contributing to new projects and learning emerging technologies.
 
 🌍 I'm based in Madrid, Spain.  
 ✉️ You can keep in touch with me by email: [fpalvim@gmail.com](mailto:fpalvim@gmail.com)   
